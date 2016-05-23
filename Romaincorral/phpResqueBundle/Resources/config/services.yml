@@ -1,0 +1,4 @@
+services:
+#    romaincorralphp_resque.example:
+#        class: Romaincorral\phpResqueBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

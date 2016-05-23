@@ -1,0 +1,3 @@
+romaincorralphp_resque_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: RomaincorralphpResqueBundle:Default:index }
